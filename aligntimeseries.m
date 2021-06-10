@@ -7,7 +7,7 @@ function aligned = aligntimeseries(x1,t1,x2,t2)
 %   Find the closest timestamps across datasets and then gap-fill without
 %   interpolation
 %
-%   [alignedt, alignedx] = aligntimeseries(t1,x1,t2,x2)
+%   aligned = aligntimeseries(t1,x1,t2,x2)
 %
 %   INPUT:
 %       x1 = input matrix 1
