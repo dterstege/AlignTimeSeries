@@ -7,7 +7,7 @@ The function indexes through the longer dataset.  For each timestamp in the long
 ## Function
 
 ```MATLAB
-aligned = aligntimeseries(x1,t1,x2,t2
+aligned = aligntimeseries(x1,t1,x2,t2)
 ```
 
 INPUT:
